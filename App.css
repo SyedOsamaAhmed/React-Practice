@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+span {
+  padding         : 10px;
+  background-color: rgb(99, 99, 107);
+  font-size       : 20px;
+  margin-bottom   : 10px;
+  line-height     : 60px;
+  color           : #fff;
+
+}
