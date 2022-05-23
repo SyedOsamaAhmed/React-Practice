@@ -1,4 +1,24 @@
 #React
+During this React Course, I learnt following concepts:
 
+##Concepts:
 
-This reppository contains all basic and advanced concepts of react framework like __props,hooks,useContext,controlled,uncontrolled components,conditional rendering,unconditionall rendering,nwsted list,forms,refs,maps and liftingstateup__.
+* props
+* hooks
+* state
+* controlled components
+* uncontrolled components
+* Conditional rendering
+* Unconditional rendering
+* Refs
+* Forms
+* Pure component
+* Liftstateup
+* Higher order component
+* usestate
+* use effect
+* usememo
+* rounting
+* context api
+* React lifecycle
+
