@@ -1,7 +1,7 @@
-#React
+# React
 During this React Course, I learnt following concepts:
 
-##Concepts:
+## Concepts:
 
 * props
 * hooks
@@ -13,7 +13,7 @@ During this React Course, I learnt following concepts:
 * Refs
 * Forms
 * Pure component
-* Liftstateup
+* liftStateUp
 * Higher order component
 * usestate
 * use effect
@@ -21,4 +21,5 @@ During this React Course, I learnt following concepts:
 * rounting
 * context api
 * React lifecycle
+* dynamic routing
 
